@@ -27,8 +27,8 @@ item_6 = "--" + "item_6==" + item_6 + "item_6_type==" + item_6_type + "--"
 console.log(item_6)
 
 item_7 = item_6
-item_7 = typeof (item_6)
-console.log("item_6=" + item_7)
+item_7 = typeof(item_6)
+console.log("item_6 = " + item_7)
 
 item_7_type = item_7
 item_7 = "--" + "item_7==" + item_7 + "item_7_type==" + item_7_type + "--"
